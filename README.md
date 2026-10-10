@@ -1,6 +1,6 @@
 # Genesis 2026: Ideathon
 
-## GEN26-A0H-IXXX
+## GEN26-A0H-I026
 ### Team Details
 #### **HUSTLERS** <<RK.Pranesh>> <br/>
 #### Team Members
